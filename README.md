@@ -1,4 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/wellrodrig/Whatsapp-Spy)   ![GitHub forks](https://img.shields.io/github/forks/wellrodrig/Whatsapp-Spy)   ![GitHub followers](https://img.shields.io/github/followers/wellrodrig)  
+اةوززظزز![GitHub Repo stars](https://img.shields.io/github/stars/wellrodrig/Whatsapp-Spy)   ![GitHub forks](https://img.shields.io/github/forks/wellrodrig/Whatsapp-Spy)   ![GitHub followers](https://img.shields.io/github/followers/wellrodrig)  
 
 
 
